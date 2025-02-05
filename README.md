@@ -7,7 +7,7 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I am a Full Stack Developer | Angular & .NET
+I am a Full Stack Web Developer Using  .NET  &Angular 
 I build scalable, user-friendly web applications, focusing on responsive front-end interfaces with Angular and secure back-end services using ASP.NET Core. I also work with SQL Server and Entity Framework Core for efficient database management.
 
 
